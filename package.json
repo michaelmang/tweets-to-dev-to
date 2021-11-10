@@ -1,0 +1,8 @@
+{
+  "name": "tweets-to-dev-to",
+  "version": "1.0.0",
+  "description": "A GitHub action to tweet threads using pull requests and post them to dev.to.",
+  "main": "lib/index.js",
+  "author": "",
+  "license": "MIT"
+}
